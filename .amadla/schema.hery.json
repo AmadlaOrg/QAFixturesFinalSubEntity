@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "id": "urn:hery:amadla:AmadlaOrg:QAFixturesFinalSubEntity:latest",
-  "title": "HERY - QA - Fixtures - Entity - Invalid.",
+  "title": "HERY - QA - Fixtures - Final - Sub - Entity.",
   "description": "Defines QA fixtures.",
   "type": "object",
   "properties": {

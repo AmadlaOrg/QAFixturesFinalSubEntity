@@ -1,7 +1,7 @@
 ---
 _entity: "github.com/AmadlaOrg/Entity@latest"
-name: QAFixturesEntityPseudoVersion
-description: Entity Pseudo Version definitions.
+name: QAFixturesFinalSubEntity
+description: QA Fixtures Final Sub Entity definitions.
 category: QA
 tags:
   - QA
