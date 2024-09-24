@@ -1,12 +1,13 @@
 ---
-_entity: "github.com/AmadlaOrg/Entity@latest"
-name: QAFixturesFinalSubEntity
-description: QA Fixtures Final Sub Entity definitions.
-category: QA
-tags:
-  - QA
-  - fixture
-  - test
-_self:
-  _entity: "github.com/AmadlaOrg/QAFixturesFinalSubEntity@latest"
+_meta:
+  _entity: "github.com/AmadlaOrg/Entity@latest"
+  _body:
+    name: QAFixturesFinalSubEntity
+    description: QA Fixtures Final Sub Entity definitions.
+    category: QA
+    tags:
+      - QA
+      - fixture
+      - test
+_body:
   message: Simple message...
